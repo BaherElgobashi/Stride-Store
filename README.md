@@ -69,8 +69,8 @@ npm run build
 ## 👨‍💻 Author
 
 **Baher Elgobashi**
-- GitHub: [@BaherElgobashi](https://github.com/BaherElgobashi)
-- LinkedIn: [Baher Elgobashi](https://www.linkedin.com/in/baher-elgobashi-1975a5298/)
+- GitHub: (https://github.com/BaherElgobashi)
+- LinkedIn: (https://www.linkedin.com/in/baher-elgobashi-1975a5298/)
 
 ---
 
